@@ -12,7 +12,8 @@ code {
     monospace;
 }
 
-.Counter {
+.App {
+  gap: 50px;
   flex-direction: column;
   display: flex;
   align-items: center;
