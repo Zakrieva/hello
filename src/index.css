@@ -21,3 +21,9 @@ code {
   margin: 0 auto;
   width: 1140px;
 }
+
+.Converter {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
